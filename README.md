@@ -38,7 +38,7 @@
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=discord" width="65" height="65" alt="Discord" />
-      <br>HTML
+      <br>Discord
     </td>
     </td>
             <td align="center" width="96">
