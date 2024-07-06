@@ -3,9 +3,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EmiliaHoarfrost&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-## My favorite tools and technologies ⚙️
+## Tools and techs I toyed with! ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> ?
 
 <table>
     <td align="center" width="96">
