@@ -5,6 +5,7 @@
 > additional description
 --->
 <table>
+     </tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
@@ -28,6 +29,8 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
       <br>C
+         <tr>
+              </tr>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
@@ -55,5 +58,5 @@
       <br>VSCode
     </td>
     </td>
- </tr>
+ <tr>
 </table>
