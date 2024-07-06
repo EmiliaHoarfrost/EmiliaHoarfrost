@@ -49,6 +49,10 @@
         <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="Linux" />
       <br>Vim
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="Godot" />
+      <br>Godot
+    </td>
     </td>
  </tr>
 </table>
