@@ -36,6 +36,10 @@
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=discord" width="65" height="65" alt="Discord" />
+      <br>HTML
+    </td>
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
