@@ -29,8 +29,8 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
       <br>C
-         <tr>
-              </tr>
+    </table>
+    <table>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
@@ -58,5 +58,4 @@
       <br>VSCode
     </td>
     </td>
- <tr>
 </table>
