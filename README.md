@@ -24,6 +24,14 @@
         <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Git" />
+      <br>Blender
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="Git" />
+      <br>C
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
