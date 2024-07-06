@@ -4,9 +4,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EmiliaHoarfrost&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 ## Tools and techs I toyed with! ⚙️
-
-> ?
-
+<!---
+> additional description
+--->
 <table>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
