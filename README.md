@@ -1,9 +1,6 @@
-## Hi, I'm Émilia Hoarfrost!
-<!--- [![EmiliaHoarfrost's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliahoarfrost)](https://github.com/emiliahoarfrost/github-readme-stats)
---->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EmiliaHoarfrost&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+## Hi, I'm Émilia Hoarfrost! <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2744_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2744_fe0f/512.gif" alt="❄" width="32" height="32"> </picture>
 
-## Tools and techs I toyed with! ⚙️
+## Tools and techs I toyed with! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"></picture>
 <!---
 > additional description
 --->
