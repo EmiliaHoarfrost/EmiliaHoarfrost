@@ -25,11 +25,11 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Blender" />
       <br>Blender
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
       <br>C
     </td>
     <td align="center"  width="96">
@@ -46,12 +46,16 @@
       <br>Linux
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="Vim" />
       <br>Vim
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="Godot" />
+        <img src="https://skillicons.dev/icons?i=godot" width="65" height="65" alt="Godot" />
       <br>Godot
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
+      <br>VSCode
     </td>
     </td>
  </tr>
