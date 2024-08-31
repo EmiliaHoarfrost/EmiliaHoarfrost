@@ -65,5 +65,9 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
       <br>VSCode
     </td>
+        <td align="center" width="96">
+        <img src="         https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Rust" />
+      <br>Rust
+    </td>
     </td>
 </table>
