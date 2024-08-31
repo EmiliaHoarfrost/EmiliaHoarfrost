@@ -3,8 +3,7 @@
 * 🌍  Based in Paris
 * 🧠  Learning Rust🦀
 * 🎓  Earned my CCNA
-* 🚀  Wanna mess with Windows API & networking/sockets programming
-
+  
 <a href="http://www.github.com/EmiliaHoarfrost"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmiliaHoarfrost&stroke=28004d&background=ffffff&ring=28004d&fire=28004d&currStreakNum=28004d&currStreakLabel=28004d&sideNums=28004d&sideLabels=28004d&dates=28004d&hide_border=true" /></a>
 
 ## Socials <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" alt="🍻" width="32" height="32"></picture>
