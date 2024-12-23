@@ -1,7 +1,7 @@
 ## Hello, my name is Émilia Lilith-Lolita Hoarfrost! <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2744_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2744_fe0f/512.gif" alt="❄" width="32" height="32"> </picture>
 
 * 🌍  Based in Paris
-* 🧠  Learning Rust🦀
+* 🧠  Doing a Networking & DevOps Engineering Internship
 * 🎓  Earned my CCNA
 
 ## Socials <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" alt="🍻" width="32" height="32"></picture>
